@@ -20,7 +20,9 @@ Pola Browser — это легковесный и быстрый браузер,
 
 Установки Pola Browser команда для Linux (Ubuntu)
 ```sudo apt update```
+
 ```sudo apt install chromium-browser```
+
 ```sudo apt install chromium-chromedriver```   
 
 ## Лицензия
